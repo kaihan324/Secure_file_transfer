@@ -1,0 +1,8 @@
+[2025-06-10 01:24:02] [START] Server started.
+[2025-06-10 01:24:07] [LOGIN] User: kaihan - Success
+[2025-06-10 01:24:20] [LIST FILES] kaihan requested file list.
+[2025-06-10 01:24:42] [DELETE] kaihan deleted '2.txt'.
+[2025-06-10 01:25:03] [LIST FILES] kaihan requested file list.
+[2025-06-10 01:25:20] [UPLOAD] kaihan uploaded '2.txt'.
+[2025-06-10 01:37:14] [LIST FILES] kaihan requested file list.
+[2025-06-10 01:47:36] [-] kaihan disconnected.
